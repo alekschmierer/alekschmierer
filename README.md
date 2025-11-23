@@ -1,6 +1,5 @@
 # 👋 Hey, I'm Alek
 🌵 Computer Science Graduate from Arizona State University</br>
-🧪 Interned at Living in Silico Working on a GUI and Backend With RxDock</br>
 🐍 Preferred Languages Python and C++.
 
 # 💻 Tech Stack:
